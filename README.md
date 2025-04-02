@@ -14,7 +14,7 @@ This project focuses on classifying mushrooms as edible or poisonous using deep 
 
 ## Overview
 
-The project utilizes the Mushroom Classification dataset from Kaggle, which includes descriptions of 8,143 mushroom samples with 23 features, each labeled as either edible or poisonous. citeturn0search6
+The project utilizes the Mushroom Classification dataset from Kaggle, which includes descriptions of 8,143 mushroom samples with 23 features, each labeled as either edible or poisonous.
 
 **Key Steps in the Analysis:**
 
